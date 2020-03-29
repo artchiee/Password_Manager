@@ -1,0 +1,7 @@
+# ignore the extensions 
+*.db
+/database.db
+*.json
+!*settings.json
+safe_serialize.py
+
