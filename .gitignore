@@ -1,7 +1,5 @@
-# ignore the extensions 
-*.db
+ *.db
 /database.db
 *.json
-!*settings.json
 safe_serialize.py
-
+__pycache__
